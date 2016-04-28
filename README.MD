@@ -28,6 +28,7 @@ nama : husen alamat : irasojra
 
 Razzaq Hadir
 
+
 #rizal
 - nama : afrizal aminulloh 
 - alamat : jln. mayjend pandjaitan 
@@ -62,9 +63,14 @@ Razzaq Hadir
 
 
 
+
 nama : husen
 alamat : irasojra
 
 Razzaq Hadir
 
+#Husen
+- nama : husen
+- alamat : irasojra
+- email : husenm0099@gmail.com
 
