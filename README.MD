@@ -8,8 +8,9 @@ alamat: medan city
 
 belajar git
 
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
+#rizal
+- nama   : afrizal aminulloh
+- alamat : jln. mayjend pandjaitan
 
 nama : husen
 alamat : irasojra
