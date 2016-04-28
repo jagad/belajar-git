@@ -54,32 +54,11 @@ alamat : jln. mayjend pandjaitan
 - alamat	: tunggulwulung
 - pesan		: yowes
 
-
-
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
-belajar git , harus semangat yaa
-nama: merry gricelya nababan
-alamat: medan city
-
-
-
-
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
 #Merry
-- nama		    : merry gricelya nababan
-- alamat		: medan city
 
-
-
-#Merry
-- nama: merry gricelya nababan
-- alamat: medan city
+- nama		: merry gricelya nababan
+- alamat	: medan city
+- email		:gricelnbn2@gmail.com
 
 #febrina
 - nama : febrina putri laksamana
