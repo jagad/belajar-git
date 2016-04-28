@@ -29,6 +29,7 @@ alamat : jln. mayjend pandjaitan
 #febrina
 - nama : febrina putri laksamana
 - asrama :UB griya brawijaya
+- email : merilanovputri@gmail.com 
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
