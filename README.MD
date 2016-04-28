@@ -1,3 +1,4 @@
 Belajar GIT
 
-mengembalikan beajar git
+Razzaq
+zzaqrazzaq@gmail.com
