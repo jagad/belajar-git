@@ -22,10 +22,11 @@ Belajar git
 - pesan		: yowes
 
 
-belajar git 
 #Merry
-- nama: merry gricelya nababan
-- alamat: medan city
+
+- nama		: merry gricelya nababan
+- alamat	: medan city
+- email		:gricelnbn2@gmail.com
 
 - nama : febrina putri laksamana
 - asrama :UB griya brawijaya
