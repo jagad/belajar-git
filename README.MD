@@ -5,7 +5,7 @@ nama: merry gricelya nababan
 alamat: medan city
 =======
 belajar git
-<<<<<<< HEAD
+HEAD
 febrina putri laksamana
 asrama UB griya brawijaya
 hadir
