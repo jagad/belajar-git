@@ -1,3 +1,3 @@
-Belajar GIT
+Belajar git
 
 Aik Hadir
