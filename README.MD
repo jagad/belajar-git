@@ -15,11 +15,14 @@ Belajar git
 - pesan   : salam satu jiwa
  
 
-Aik Hadir
+#aik
 
-<<<<<<< HEAD
+- nama 		: kuro
+- alamat	: tunggulwulung
+- pesan		: yowes
 
-belajar git 
+
+
 ###Merry
 -nama: merry gricelya nababan
 -alamat: medan city
@@ -29,8 +32,8 @@ nama: merry gricelya nababan
 alamat: medan city
 
 
-belajar git
-=======
+
+
 ###Merry
 -nama: merry gricelya nababan
 -alamat: medan city
@@ -38,13 +41,10 @@ belajar git
 #Merry
 - nama		    : merry gricelya nababan
 - alamat		: medan city
->>>>>>> 8274123fb4c69676c59aa5992a50d07b279b45e2
 
 #febrina
 - nama : febrina putri laksamana
 - asrama :UB griya brawijaya
-
-
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
@@ -53,8 +53,6 @@ nama : husen
 alamat : irasojra
 
 Razzaq Hadir
-
-
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
