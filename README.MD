@@ -7,7 +7,6 @@ Belajar GIT
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
-Belajar git
 
 #yuri
 - nama    : yuri
@@ -41,6 +40,12 @@ alamat: medan city
 #Merry
 - nama		    : merry gricelya nababan
 - alamat		: medan city
+
+
+
+#Merry
+- nama: merry gricelya nababan
+- alamat: medan city
 
 #febrina
 - nama : febrina putri laksamana
