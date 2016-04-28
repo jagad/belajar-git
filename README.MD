@@ -20,32 +20,6 @@ alamat : jln. mayjend pandjaitan
 - alamat	: tunggulwulung
 - pesan		: yowes
 
-
-<<<<<<< HEAD
-=======
-
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
-belajar git , harus semangat yaa
-nama: merry gricelya nababan
-alamat: medan city
-
-
-
-
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
-#Merry
-- nama		    : merry gricelya nababan
-- alamat		: medan city
-
-
-
->>>>>>> b742e4d34b372049398b3a716776db42d7fc55a2
 #Merry
 
 - nama		: merry gricelya nababan
