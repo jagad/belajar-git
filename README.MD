@@ -18,9 +18,10 @@ Belajar git
 
 Aik Hadir
 
-belajar git , harus semangat yaa
-nama: merry gricelya nababan
-alamat: medan city
+belajar git 
+###Merry
+-nama: merry gricelya nababan
+-alamat: medan city
 
 belajar git
 
