@@ -15,4 +15,9 @@ nama : husen
 alamat : irasojra
 
 
-Razzaq Hadir
+belajar git
+nama   : afrizal aminulloh
+alamat : jln. mayjend pandjaitan
+nama : husen
+alamat : irasojra
+
