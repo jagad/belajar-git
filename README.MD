@@ -21,6 +21,9 @@ Aik Hadir
 -nama: merry gricelya nababan
 -alamat: medan city
 
+#Merry
+- nama		    : merry gricelya nababan
+- alamat		: medan city
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
