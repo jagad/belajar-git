@@ -1,11 +1,10 @@
 Belajar GIT
 
-<<<<<<< HEAD
+
 Razzaq
 nama : Razzaq
 email : zzaqrazzaq@gmail.com
 pesan : Liecaster gagal juara
-nama : afrizal aminulloh alamat : jln. mayjend pandjaitan Belajar git
 
 yuri
 nama : yuri
@@ -24,23 +23,20 @@ alamat: medan city
 nama : febrina putri laksamana
 
 asrama :UB griya brawijaya
-nama : afrizal aminulloh alamat : jln. mayjend pandjaitan
 
 nama : husen alamat : irasojra
 
 Razzaq Hadir
 
 #rizal
-nama : afrizal aminulloh 
-alamat : jln. mayjend pandjaitan 
+- nama : afrizal aminulloh 
+- alamat : jln. mayjend pandjaitan 
 
 #Razzaq
 - nama : Razzaq
 - email : zzaqrazzaq@gmail.com
 - pesan : Liecaster gagal juara
 
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
 
 #yuri
 - nama    : yuri
@@ -64,17 +60,11 @@ alamat : jln. mayjend pandjaitan
 - nama : febrina putri laksamana
 - asrama :UB griya brawijaya
 
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
+
 
 nama : husen
 alamat : irasojra
 
 Razzaq Hadir
 
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
-nama : husen
-alamat : irasojra
 
->>>>>>> b742e4d34b372049398b3a716776db42d7fc55a2
