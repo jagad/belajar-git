@@ -22,34 +22,11 @@ Belajar git
 - pesan		: yowes
 
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ff1b913d62bc20c8f578740f2d8e5863ceadc373
 belajar git 
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
-<<<<<<< HEAD
-=======
-belajar git , harus semangat yaa
-nama: merry gricelya nababan
-alamat: medan city
-
-
-belajar git
-
-###Merry
--nama: merry gricelya nababan
--alamat: medan city
-
 #Merry
-- nama		    : merry gricelya nababan
-- alamat		: medan city
+- nama: merry gricelya nababan
+- alamat: medan city
 
-
->>>>>>> ff1b913d62bc20c8f578740f2d8e5863ceadc373
 - nama : febrina putri laksamana
 - asrama :UB griya brawijaya
 
