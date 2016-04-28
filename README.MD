@@ -1,34 +1,6 @@
 Belajar GIT
 
 
-Razzaq
-nama : Razzaq
-email : zzaqrazzaq@gmail.com
-pesan : Liecaster gagal juara
-
-yuri
-nama : yuri
-alamat : sawojajar
-pesan : salam satu jiwa
-aik
-nama : kuro
-alamat : tunggulwulung
-pesan : yowes
-belajar git
-
-Merry
-nama: merry gricelya nababan
-alamat: medan city
-
-nama : febrina putri laksamana
-
-asrama :UB griya brawijaya
-
-nama : husen alamat : irasojra
-
-Razzaq Hadir
-
-
 #rizal
 - nama : afrizal aminulloh 
 - alamat : jln. mayjend pandjaitan 
