@@ -1,12 +1,13 @@
 Belajar GIT
 
+#rizal
+nama : afrizal aminulloh 
+alamat : jln. mayjend pandjaitan 
+
 #Razzaq
 - nama : Razzaq
 - email : zzaqrazzaq@gmail.com
 - pesan : Liecaster gagal juara
-
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
 
 #yuri
 - nama    : yuri
@@ -31,16 +32,10 @@ alamat : jln. mayjend pandjaitan
 - asrama :UB griya brawijaya
 - email : merilanovputri@gmail.com 
 
-nama   : afrizal aminulloh
-alamat : jln. mayjend pandjaitan
-
-nama : husen
-alamat : irasojra
-
-Razzaq Hadir
+#Husen
+- nama : husen
+- alamat : irasojra
+- email : husenm0099@gmail.com
 
 nama   : afrizal aminulloh
 alamat : jln. mayjend pandjaitan
-nama : husen
-alamat : irasojra
-
