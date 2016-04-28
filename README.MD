@@ -10,8 +10,8 @@ Aik Hadir
 
 belajar git 
 #Merry
--nama		: merry gricelya nababan
--alamat		: medan city
+- nama		    : merry gricelya nababan
+- alamat		: medan city
 
 belajar git
 
