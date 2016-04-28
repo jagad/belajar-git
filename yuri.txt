@@ -1,0 +1,3 @@
+nama: yuri
+alamat: malang
+telp: rusak
