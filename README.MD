@@ -34,13 +34,6 @@ Belajar GIT
 - asrama :UB griya brawijaya
 
 
-
-
-nama : husen
-alamat : irasojra
-
-Razzaq Hadir
-
 #Husen
 - nama : husen
 - alamat : irasojra
