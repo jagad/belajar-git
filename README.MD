@@ -40,3 +40,7 @@ Belajar GIT
 - alamat : irasojra
 - email : husenm0099@gmail.com
 
+#Rika
+- nama : rika
+- alamat :Malang
+- email :rikapm5@gmail.com
