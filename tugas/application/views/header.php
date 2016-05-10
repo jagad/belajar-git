@@ -44,9 +44,9 @@
             <h1 class="h1_home wow fadeIn" data-wow-delay="0.4s">Biodata</h1>
             <h3 class="h3_home wow fadeIn" data-wow-delay="0.6s">Anggota Magang</h3>
             <ul class="list-inline intro-social-buttons">
-                <li <td><a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#whatis"> <img class="img_scroll" src="<?php echo base_url('assets/img/icon/circle.png');?>" alt=""> </a>&nbsp</td><p>Afrizal</p>
+                <li <td><a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#whatis"> <img class="img_scroll" src="<?php echo base_url('assets/img/icon/circle.png');?>" alt=""> </a>&nbsp</td><p>Aik</p>
                 </li>
-                <li <td><a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#"> <img class="img_scroll" src="<?php echo base_url('assets/img/icon/circle.png');?>" alt=""> </a>&nbsp</td><p>Afrizal</p>
+                <li <td><a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#hus"> <img class="img_scroll" src="<?php echo base_url('assets/img/icon/circle.png');?>" alt=""> </a>&nbsp</td><p>Husen</p>
                 </li>
                 <li <td><a class="imgcircle wow bounceInUp" data-wow-duration="1.5s"  href="#zaq"> <img class="img_scroll" src="<?php echo base_url('assets/img/icon/circle.png');?>" alt=""> </a>&nbsp</td><p>Razzaq</p>
                 </li>

@@ -40,43 +40,43 @@
 						</a>
 					</div>       
                 </div>
-				
-                <div class="col-sm-6 wow fadeInRightBig"  data-animation-delay="200">   
-                    <h3 class="section-heading">Drag Gallery</h3>
-					<div class="sub-title lead3">Lorem ipsum dolor sit atmet sit dolor greand fdanrh<br> sdfs sit atmet sit dolor greand fdanrh sdfs</div>
+				<div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
+                    <h3 class="section-heading">Full Responsive</h3>
+                    <div class="sub-title lead3">Lorem ipsum dolor sit atmet sit dolor greand fdanrh<br> sdfs sit atmet sit dolor greand fdanrh sdfs</div>
                     <p class="lead">
-						In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret. 
-						Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur, 
-						uam non erat mirum sapientiae lorem cupido
-						patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
-					</p>
+                        In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret. 
+                        Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur, 
+                        uam non erat mirum sapientiae lorem cupido
+                        patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
+                    </p>
 
-				</div>  			
+                </div>   
+                			
 			</div>
         </div>
     </div>
 <!-- Use it -->
-    <div id ="useit" class="content-section-a">
+    <div id ="hus" class="content-section-a">
 
         <div class="container">
 			
             <div class="row">
 			
 				<div class="col-sm-6 pull-right wow fadeInRightBig">
-                    <img class="img-responsive " src="img/ipad.png" alt="">
+                    <img class="img-responsive img-rounded" src="<?php echo base_url('assets/img/husen.jpg');?>" alt="">
                 </div>
-				
-                <div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
-                    <h3 class="section-heading">Full Responsive</h3>
-					<div class="sub-title lead3">Lorem ipsum dolor sit atmet sit dolor greand fdanrh<br> sdfs sit atmet sit dolor greand fdanrh sdfs</div>
+				<div class="col-sm-6 wow fadeInLeftBig"  data-animation-delay="200">   
+                    <h3 class="section-heading">Husen Muchammad Ma'ruf</h3>
+                     
                     <p class="lead">
-						In his igitur partibus duabus nihil erat, quod Zeno commuta rest gestiret. 
-						Sed virtutem ipsam inchoavit, nihil ampliusuma. Scien tiam pollicentur, 
-						uam non erat mirum sapientiae lorem cupido
-						patria esse cariorem. Quae qui non vident, nihilamane umquam magnum ac cognitione.
-					</p>
-
-				</div>   
+                        <tr>
+                        <td>Email   : husenm0099@gmail.com</td><br>
+                        <td>Github  : husenmm</td><br>
+                        <td>Facebook: Husen Muchammad Ma'ruf</td><br>
+                    </tr>
+                    </p>
+                </div>   
+                
             </div>
         </div>
         <!-- /.container -->
