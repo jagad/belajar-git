@@ -1,0 +1,3 @@
+nama: rika
+alamat: malang
+telp: 081262770068
